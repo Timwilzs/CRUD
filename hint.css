@@ -1,0 +1,16 @@
+#body {
+	font-family: "Trebuchet MS";
+	font-size: 25px;
+	text-align: center;
+	color: #ffcc00;
+	padding: 3px;
+	text-decoration-color: #ffffff;
+}
+#main {
+	padding: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+	background-color: #0099ff;
+	border-radius: 0 0 5px 5px;
+}
